@@ -2,6 +2,8 @@
 ## The Fan Immersion and Connection of a Show and Its "Ships" Through Music
 
 ### Our Logo
+![logo](/PROJPROP/logo.png)
+[Source of image logo](https://imgbin.com/png/4KqQpcDR/cartoon-pasta-bowl-of-twisted-pasta-illustration-png)
 
 ### Description
 Our website plans to share with you the nature of a specific theoretical couple pairing (also known as "Byler"), derived from a TV show titled "Stranger Things", through music and all of its elements: melody, lyrics, tempo, and even just first-hand vibes! Whether it be modern music that shares similar sentiments and heartfelt feelings of the characters, or songs that stay true to the show's timeline---hitting fans in their feels of nostalgia or immersion into the fictional universe, we are sure to handpick only the best of the best that will surely keep you hooked for more. We have been long time avid fans of the television show, as well as music geeks, which brought us to the notion to combine our interests into a project idea that would be bound to constantly fuel us with productivity and dedication in completing the project up until our last quarter. 
@@ -30,15 +32,15 @@ We plan to use JS by forming an array of the playlists, which will make it easie
   
 ### Wireframes
 **Homepage/Lobby**
-![homepage](/wireframe/home.png)
+![homepage](/PROJPROP/wireframe/home.png)
 **Will's Mixtape**
-![homepage](/wireframe/will.png)
+![will's mixtape](/PROJPROP/wireframe/will.png)
 **Mike's Mixtape**
-![homepage](/wireframe/mike.png)
+![mike's mixtape](/PROJPROP/wireframe/mike.png)
 **Their Past and Present**
-![homepage](/wireframe/past-present.png)
+![their past and present](/PROJPROP/wireframe/past-present.png)
 **Top Picks**
-![homepage](/wireframe/top-picks.png)
+![top picks](/PROJPROP/wireframe/top-picks.png)
 **Their Lore**
-![homepage](/wireframe/their-lore.png)
+![their lore](/PROJPROP/wireframe/their-lore.png)
 
